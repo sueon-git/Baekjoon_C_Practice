@@ -21,8 +21,7 @@
 이곳에서 다진 C언어 기초를 바탕으로, 실제 하드웨어 STM32F401 보드를 제어하는 다음 프로젝트와 병행 진행
 
 -   **[STM32_01_BareMetal_Blink](https://github.com/sueon-git/STM32_01_BareMetal_Blink)**: C언어의 `while(1)`과 함수 호출만으로 MCU를 직접 제어
-
+-   **[STM32_01_BareMetal_Blink](https://github.com/sueon-git/STM32_01_BareMetal_Blink)**: 백준 2단계 if-else 조건문으로 '상태 변수'(led_state)를 확인하여, LED가 켜져 있으면 끄고 꺼져 있으면 켜는 '토글(Toggle)' 로직 구현.
 
 ---
 
-앞으로 꾸준히 문제를 풀어나가며 이 저장소를 업데이트 예정
